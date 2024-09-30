@@ -1,0 +1,36 @@
+----------------------------------------------------------------------------------------------------------
+
+Disk    TotalSectors       Cylinders    Heads    Sectors/Track     DIskInfo
+0        1000215216       62260         255                 63       KINGSTON OM8PCP3512F-AI1  
+----------------------------------------------------------------------------------------------------------
+
+-----------------------------begin collect basic volume-----------------------------------
+DriverLetter   FileSystem  StartSector     TotalSectors     ParentDisk: Disk      VolumeLabel
+
+-----------------------------end collect basic volume-----------------------------------
+
+-----------------------------begin collect dynamic volume-----------------------------------
+DriverLetter   FileSystem   DynamicVolumeType   TotalSectors       VolumeLabel      ParentDiskInfo
+
+-----------------------------end collect dynamic volume-------------------------------------
+
+([SYSTEM] | [*] | [FAT32] | [0] M | [0] M | [0]);([] | [*] | [UNKNOWN] | [0] M | [0] M | [0]);([Windows] | [C] | [NTFS] | [386714] M | [473693] M | [0]);([WinRE tools] | [*] | [NTFS] | [0] M | [0] M | [0]);([BIOS_RVY] | [*] | [NTFS] | [0] M | [0] M | [0]);
+
+----------------------------------------------------------------------------------------------------------
+
+Disk    TotalSectors       Cylinders    Heads    Sectors/Track     DIskInfo
+0        1000215216       62260         255                 63       KINGSTON OM8PCP3512F-AI1  
+----------------------------------------------------------------------------------------------------------
+
+-----------------------------begin collect basic volume-----------------------------------
+DriverLetter   FileSystem  StartSector     TotalSectors     ParentDisk: Disk      VolumeLabel
+
+-----------------------------end collect basic volume-----------------------------------
+
+-----------------------------begin collect dynamic volume-----------------------------------
+DriverLetter   FileSystem   DynamicVolumeType   TotalSectors       VolumeLabel      ParentDiskInfo
+
+-----------------------------end collect dynamic volume-------------------------------------
+
+([SYSTEM] | [*] | [FAT32] | [0] M | [0] M | [0]);([] | [*] | [UNKNOWN] | [0] M | [0] M | [0]);([Windows] | [C] | [NTFS] | [386714] M | [473693] M | [0]);([WinRE tools] | [*] | [NTFS] | [0] M | [0] M | [0]);([BIOS_RVY] | [*] | [NTFS] | [0] M | [0] M | [0]);
+

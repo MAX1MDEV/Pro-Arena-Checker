@@ -1,0 +1,9 @@
+[ver]
+versionName 	= Free
+versionNumber 	= 4.0.0.0
+UseBrowser		= 0
+ShowAd			= 0
+ExternalBuy		= 1
+CanSwitchLanguage = 1
+Date=567120061211
+InitActive=0
